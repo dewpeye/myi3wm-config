@@ -2,7 +2,7 @@
 i use i3 windowmanager. so imma just upload it here.. ain't anything flashy but i am learning
 
 ## packages to install
--> ttf-font-awsome
+-> ttf-font-awsome \n
 -> feh
 -> i3block
 -> dunst
